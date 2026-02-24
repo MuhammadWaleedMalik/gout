@@ -33,3 +33,8 @@ dist-ssr/
 
 # Project specific
 .bolt/
+*.tsbuildinfo
+*.eslintcache
+vite.config.ts.timestamp-*
+coverage/
+tmp/
