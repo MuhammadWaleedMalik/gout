@@ -1,0 +1,24 @@
+{
+  "logoAlt": "{websiteName} 的标志",
+  "nav": {
+    "home": "首页",
+    "findings": "发现",
+    "beadStrings": "珠串",
+    "pearlStrings": "珍珠串",
+    "jewellery": "珠宝",
+    "beads": "珠子",
+    "rocks": "岩石",
+    "other": "其他",
+    "birthstones": "生辰石",
+    "myAccount": "我的账户",
+    "cart": "购物车",
+    "login": "登录",
+    "signup": "注册",
+    "logout": "登出"
+  },
+  "searchPlaceholder": "搜索产品...",
+  "languageSelector": {
+    "heading": "选择语言",
+    "changeLanguageLabel": "更改语言"
+  }
+}

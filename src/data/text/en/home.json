@@ -1,0 +1,156 @@
+{
+  "header": {
+    "logo": "https://your-logo-url.com/logo.png"
+  },
+  "page1": {
+    "title": "Welcome to The Rockshop",
+    "description": "Discover unique gemstones, crystals, and handmade jewelry from around the world",
+    "backgroundImage": "/images/assests/Capture.PNG"
+  },
+  "page2": {
+    "title": "Latest Products Listed",
+    "products": [
+      {
+        "name": "Amethyst Bracelet",
+        "price": "$89.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/06/moikite-150x150.png"
+      },
+      {
+        "name": "Pearl Necklace",
+        "price": "$149.99",
+            "image": "https://bronnrocks.co.za/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-09-at-16.24.39_b3393471-225x300.jpg"
+  },
+      {
+        "name": "Citrine Ring",
+        "price": "$129.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2024/04/IMG-20240404-WA0173-150x150.jpg"
+      },
+      {
+        "name": "Quartz Earrings",
+        "price": "$79.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/11/Photoroom-20251125_095722_11-225x300.jpg"
+      },
+      {
+        "name": "Jade Pendant",
+        "price": "$199.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2026/02/IMG_20260204_110045-Photoroom-300x300.jpg"
+      },
+      {
+        "name": "Silver Bangle",
+        "price": "$109.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2026/02/IMG_20260204_105836-Photoroom-300x300.jpg"
+      },
+      {
+        "name": "Rose Quartz Sphere",
+        "price": "$159.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/11/Photoroom-20251125_101311_3-225x300.jpg"
+      },
+      {
+        "name": "Gemstone Chips",
+        "price": "$49.99",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-09-at-16.24.39_b3393471-225x300.jpg"
+      }
+    ]
+  },
+  "page3": {
+    "title": "About Us",
+    "description": "Our journey with gemstones",
+    "backgroundImage": "/images/assests/2.PNG"
+  },
+  "page4": {
+    "title": "Featured Collections",
+    "slides": [
+      {
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/08/The-Kyanite-Crystal-Meaning-1536x1152-1-400x250.webp",
+        "title": "Kyanite: Nature’s Sapphire Look-Alike With a Secret",
+        "subtitle": "by 062189LucasJimenez@ | Aug 19, 2025 | Uncategorized Kyanite is a gemstone that breaks the rules. At first glance, its deep sapphire-blue crystals look like they were carved from the sky itself — but the real mystery lies inside."
+      },
+      {
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2019/07/pexels-photo-634548.jpeg",
+        "title": "Why We Trust The Courier Guy for Fast & Reliable Parcel Delivery",
+        "subtitle": "by 062189LucasJimenez@ | Jul 23, 2025 | Uncategorized Why We Use The Courier Guy as Our Preferred Courier Service Running a business means making many choices every day.One of the most important choices is how we deliver products to our customers.After trying many courier companies, we decided to make The Courier Guy our..."
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=2000",
+        "title": "Limited Edition",
+        "subtitle": "by 062189LucasJimenez@ | Jul 23, 2019 | Uncategorized We have been dealing with rocks and minerals since 1992. We pride ourselves in our dedication to providing the best customer service we can. We will go out of our way to source items for our clients. Every item that we stock is hand-selected by Thea and will be.."
+      }
+    ],
+    "blogs": [
+      {
+        "title": "Kyanite: Nature’s Sapphire Look-Alike With a Secret",
+        "description": "by 062189LucasJimenez@ | Aug 19, 2025 | Uncategorized Kyanite is a gemstone that breaks the rules. At first glance, its deep sapphire-blue crystals look like they were carved from the sky itself — but the real mystery lies inside.",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/08/The-Kyanite-Crystal-Meaning-1536x1152-1-400x250.webp"
+      },
+      {
+        "title": "Why We Trust The Courier Guy for Fast & Reliable Parcel Delivery",
+        "description": "by 062189LucasJimenez@ | Jul 23, 2025 | Uncategorized Why We Use The Courier Guy as Our Preferred Courier Service Running a business means making many choices every day.One of the most important choices is how we deliver products to our customers.After trying many courier companies, we decided to make The Courier Guy our...",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2025/07/Article5_Blogpage_Rectangle-400x250.jpg"
+      },
+      {
+        "title": "History of Jewelry Making",
+        "description": "by 062189LucasJimenez@ | Jul 23, 2019 | Uncategorized We have been dealing with rocks and minerals since 1992. We pride ourselves in our dedication to providing the best customer service we can. We will go out of our way to source items for our clients. Every item that we stock is hand-selected by Thea and will be..",
+        "image": "https://bronnrocks.co.za/wp-content/uploads/2019/07/pexels-photo-634548.jpeg"
+      }
+    ]
+  },
+  "page5": {
+    "title": "Our Workshop",
+    "description": "Where magic happens",
+      "backgroundImage": "/images/assests/3.PNG"
+},
+  "page6": {
+    "title": "The Scratch Patch at the Rockshop",
+    "description": "At The Rockshop at Hartbeespoort, our tumble stone scratch patch is a magical adventure for kids. With four cup sizes to choose from, little treasure hunters can dig through a rainbow of polished stones, filling their cups with their favourite finds. Each unique tumble stone becomes a keepsake of wonder and curiosity. Once filled, their special collection is carefully packed into a beautiful organza drawstring bag to take home — a pouch of memories, mystery, and sparkling dreams. It’s more than just stones; it’s the joy of discovery, learning, and creating lasting moments ", 
+    "image": "https://bronnrocks.co.za/wp-content/uploads/2025/07/tumb-480x640.jpg"
+  },
+  "page7": {
+    "title": "Our Collections",
+    "items": [
+      {
+        "title": "Bracelets",
+        "subtitle": "We stock a wide range of bracelets in gemstones and stainless steel. As well as necklaces in stone and sterling silver set with stones. Our range changes often",
+        "buttonText": "Shop Now"
+      },
+      {
+        "title": "Pearls",
+        "subtitle": "Freshwater pearls in strings and jewellery, Pearl earrings and pearls in sterling silver. Single pearl earring pairs and pearls in adjustable rings",
+        "buttonText": "Shop Now"
+      },
+      {
+        "title": "Gemstone Chips",
+        "subtitle": "The biggest range of gemstone and gemstone chip strings immediately available at our store at Hartbeespoort. Take a beautiful drive to us",
+        "buttonText": "Shop Now"
+      },
+      {
+        "title": "Jewellery",
+        "subtitle": "Stunning range of genuine silver jewellery with unique gemstones. We have pendants, earrings and necklaces in stainless steel and 925 silver.",
+        "buttonText": "Shop Now"
+      },
+      {
+        "title": "Rocks",
+        "subtitle": "Rough rocks, crystals and gemstones from all over Africa. Smoky quartz, Citrine and amethyst",
+        "buttonText": "Shop Now"
+      },
+      {
+        "title": "Gifts",
+        "subtitle": "Spheres, pillars, rose quartz lamps and doorknobs, waterbottles with gemstones and many more items made with gemstones in our store",
+        "buttonText": "Shop Now"
+      }
+    ]
+  },
+  "page8": {
+    "title": "Hartbeespoort Dam",
+    "description": "Hartbeespoort is a popular tourist spot just outside Johannesburg, known for its scenic dam, mountains, and weekend getaways. A visit to The Rockshop at Harties is a must—browse beautiful crystals, fossils, and silver jewellery, enjoy great coffee on the deck, and let the kids play in the Scratch Patch.",
+      "backgroundImage": "/images/assests/4.PNG"
+},
+  "page9": {
+    "title": "Visit Our Store",
+    "description": "Come experience our collection in person",
+    "image": "https://bronnrocks.co.za/wp-content/uploads/2025/07/Article5_Blogpage_Rectangle-400x250.jpg"
+  },
+  "page10": {
+    "title": "Find Us",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.123456789012!2d28.123456!3d-25.987654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e957d8b12345678%3A0x9876543210abcdef!2sThe%20Rockshop!5e0!3m2!1sen!2sza!4v1234567890123!5m2!1sen!2sza"
+  }
+}

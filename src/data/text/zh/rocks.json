@@ -1,0 +1,13 @@
+
+{
+  "pageTitle": "Rocks & Minerals",
+  "pageDescription": "Discover our natural rocks and mineral specimens",
+  "categoryTitle": "Rocks Collection",
+  "searchPlaceholder": "Search rocks...",
+  "viewDetails": "View Details",
+  "blogSectionTitle": "Mineralogy Blog",
+  "previous": "Previous",
+  "next": "Next",
+  "showingResults": "Showing {current} of {total} rocks",
+  "noResults": "No rocks found matching your search"
+}

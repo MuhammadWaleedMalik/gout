@@ -1,0 +1,24 @@
+{
+  "logoAlt": "Logo of {websiteName}",
+  "nav": {
+    "home": "Home",
+    "findings": "Findings",
+    "beadStrings": "Bead strings",
+    "pearlStrings": "Pearl Strings",
+    "jewellery": "Jewellery",
+    "beads": "Beads",
+    "rocks": "Rocks",
+    "other": "Other",
+    "birthstones": "Birthstones",
+    "myAccount": "My Account",
+    "cart": "Cart",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "searchPlaceholder": "Search for products...",
+  "languageSelector": {
+    "heading": "Select Language",
+    "changeLanguageLabel": "Change Language"
+  }
+}

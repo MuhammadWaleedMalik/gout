@@ -1,0 +1,13 @@
+
+{
+  "pageTitle": "Jewellery",
+  "pageDescription": "Discover our exquisite collection of handmade jewellery pieces",
+  "categoryTitle": "Jewellery Collection",
+  "searchPlaceholder": "Search jewellery...",
+  "viewDetails": "View Details",
+  "blogSectionTitle": "Jewellery Blog",
+  "previous": "Previous",
+  "next": "Next",
+  "showingResults": "Showing {current} of {total} jewellery pieces",
+  "noResults": "No jewellery found matching your search"
+}

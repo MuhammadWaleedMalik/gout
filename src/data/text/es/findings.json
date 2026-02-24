@@ -1,0 +1,12 @@
+{
+  "pageTitle": "配件",
+  "pageDescription": "探索我们美丽的珠宝配件系列",
+  "categoryTitle": "配件",
+  "searchPlaceholder": "搜索配件...",
+  "viewDetails": "查看详情",
+  "blogSectionTitle": "最新博客",
+  "previous": "上一页",
+  "next": "下一页",
+  "showingResults": "显示 {current} 个产品，共 {total} 个",
+  "noResults": "未找到匹配的配件"
+}   

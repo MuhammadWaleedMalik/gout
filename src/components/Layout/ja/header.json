@@ -1,0 +1,24 @@
+{
+  "logoAlt": "{websiteName} のロゴ",
+  "nav": {
+    "home": "ホーム",
+    "findings": "発見",
+    "beadStrings": "ビードストリング",
+    "pearlStrings": "パールストリング",
+    "jewellery": "ジュエリー",
+    "beads": "ビーズ",
+    "rocks": "岩",
+    "other": "その他",
+    "birthstones": "誕生石",
+    "myAccount": "マイアカウント",
+    "cart": "カート",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "searchPlaceholder": "製品を検索...",
+  "languageSelector": {
+    "heading": "言語を選択",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

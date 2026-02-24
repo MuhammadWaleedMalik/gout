@@ -1,0 +1,24 @@
+{
+  "logoAlt": "Logo de {websiteName}",
+  "nav": {
+    "home": "Inicio",
+    "findings": "Hallazgos",
+    "beadStrings": "Cadenas de cuentas",
+    "pearlStrings": "Cadenas de perlas",
+    "jewellery": "Joyas",
+    "beads": "Cuentas",
+    "rocks": "Rocas",
+    "other": "Otro",
+    "birthstones": "Piedras de nacimiento",
+    "myAccount": "Mi cuenta",
+    "cart": "Carrito",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "searchPlaceholder": "Buscar productos...",
+  "languageSelector": {
+    "heading": "Seleccionar idioma",
+    "changeLanguageLabel": "Cambiar idioma"
+  }
+}
